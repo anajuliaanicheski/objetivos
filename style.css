@@ -3,8 +3,8 @@
     --verde: #6FFF57;
     --branco: #FFFFFF;
     --botao-ativo: #9f1bdd;
-    --botao-inativo: rgba(33, 15, 233, 0.5);
-    --texto-fundo: rgba(13, 4, 116, 0.3);
+    --botao-inativo: #1f0cf586;
+    --texto-fundo: rgba(235, 18, 101, 0.932);
 }
 
 body {
